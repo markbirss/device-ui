@@ -5,7 +5,7 @@
   "keywords": "meshtastic, tbeam, tdeck, twatch, lvgl, tft, lovyangfx, embedded",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mverch67/device-ui.git"
+    "url": "https://github.com/markbirss/device-ui.git"
   },
   "authors": [
     {
